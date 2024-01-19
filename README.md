@@ -1,4 +1,4 @@
-# Embaralhador-de-Cubo-Magico 🌈
+# Gerador de Embaralhamento de Cubo Magico 🌈
 Um gerador de embaralhamentos para o Cubo Mágico 3x3 (Rubik's Cube) automaticamente, feito em Python com o objetivo de aprender e aprimorar habilidades.
 
 ## ✅ Atualizações futuras:
