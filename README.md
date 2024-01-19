@@ -5,7 +5,7 @@ Um gerador de embaralhamentos para o Cubo Mágico 3x3 (Rubik's Cube) automaticam
  - Pretendo transformar em um site inspirado no CsTimer, adicionando:
    - Cronômetro que inicia ao apertar espaço;
    - Função de embaralhar ao clicar em um botão;
-   - Média dos últimos 5 e 12 tempos;
+   - Média dos últimos 5 e 10 tempos;
    - Lista com os tempos mais recentes.
 
 
